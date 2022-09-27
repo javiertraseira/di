@@ -21,4 +21,5 @@ Sincroniza el contenido de tu proyecto en Netbeans con el de la tarea de Github 
 
 ## Parte 3 (mejora)
 Mejora el proyecto anterior para que en la clase principal ahora se creen 5 empleados requiriendo al usuario dicha información por pantalla.
+- Muestra la información de los empleados recopilada
 - A continuación, ordenar los resultados mostrando los empleados ordenados por salario de menor a mayor.
