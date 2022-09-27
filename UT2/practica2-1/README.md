@@ -21,6 +21,6 @@ Una vez creada la clase, crea en la clase principal un método main y asígnale 
 Sincroniza el contenido de tu proyecto en Netbeans con el de la tarea de Github Classroom. Haz los ajustes necesarios en Netbeans (también puedes utilizar otras herramientas como la línea de comandos de git o github desktop).
 
 ## Parte 3 (mejora)
-Mejora el proyecto anterior para que en la clase principal ahora se creen 5 empleados requiriendo al usuario dicha información por pantalla.
+Mejora el proyecto anterior para que en la clase principal ahora se creen 3 empleados requiriendo al usuario dicha información por pantalla.
 - Muestra la información de los empleados recopilada así como su sueldo bruto y sueldo neto
 - A continuación, ordenar los resultados mostrando los empleados ordenados por salario de menor a mayor.
